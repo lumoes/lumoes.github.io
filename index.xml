@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🦉</title>
+    <link>https://lumoes.github.io/</link>
+    <description>Recent content on 🦉</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lumoes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about me</title>
+      <link>https://lumoes.github.io/publications/cv/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://lumoes.github.io/publications/cv/</guid>
+      <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;2023.09 - now&lt;/strong&gt;,Beijing University of Posts and Telecommunications&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;&#xA;&lt;h6 id=&#34;auditing-meta-cognitive-hallucinations-in-reasoning-large-language-models&#34;&gt;Auditing Meta-Cognitive Hallucinations in Reasoning Large Language Models&lt;/h6&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2505.13143&#34;&gt;[Paper]&lt;/a&gt; Haolang Lu, Yilian Liu, Jingxin Xu, Guoshun Nan, Yuanlong Yu, &lt;strong&gt;Zhican Chen&lt;/strong&gt;, Kun Wang&#xA;&lt;strong&gt;NeurIPS 2025 (Poster)&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
